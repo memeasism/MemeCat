@@ -10,11 +10,24 @@ Actions = {
             "an arrow",
         },
         makes = {
-            "a minecraft house"
+            "a minecraft house",
         },
         finds = {
-            "$1M"
+            "$1M",
         },
+        plays = {
+            "Valorant",
+        },
+        learns = {
+            "how to cook crystal meth",
+        },
+        spends = {
+            "their life savings on a Pokemane donation",
+        },
+        beats = {
+            "Call of Duty zombies",
+        },
+
     },
 }
 return Actions

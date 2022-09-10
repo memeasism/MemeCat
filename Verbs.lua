@@ -4,5 +4,9 @@ Verbs = {
 "avoids",
 "makes",
 "finds",
+"plays",
+"learns",
+"spends",
+"beats",
 }
 return Verbs
