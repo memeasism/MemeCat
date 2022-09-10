@@ -3,7 +3,7 @@ require("discordia-interactions")
 local commands = require('Commands')
 local json = require('json')
 local client = discordia.Client()
-local prefix = ":"
+local prefix = ";"
 
 local token = require('Token')
 
