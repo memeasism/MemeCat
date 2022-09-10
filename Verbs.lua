@@ -8,5 +8,8 @@ Verbs = {
 "learns",
 "spends",
 "beats",
+"cooks",
+"loses",
+"paints",
 }
 return Verbs

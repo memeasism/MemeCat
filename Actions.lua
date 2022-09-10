@@ -27,6 +27,15 @@ Actions = {
         beats = {
             "Call of Duty zombies",
         },
+        cooks = {
+            "meth",
+        },
+        loses = {
+            "at jenga",
+        },
+        paints = {
+            "A picture of a monkey"
+        },
 
     },
 }
