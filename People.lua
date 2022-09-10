@@ -5,3 +5,4 @@ People = {
 "Some Monkey",
 "Joker",
 }
+return People
