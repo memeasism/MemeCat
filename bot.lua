@@ -14,7 +14,7 @@ client:on('messageCreate', function(message)
 	end
 end)
 
-local token_file = io.open('./token')
+local token_file = io.open('./antigit/token')
 local token = token_file:read('*a')
 token_file:close()
 
