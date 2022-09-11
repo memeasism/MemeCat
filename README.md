@@ -1,5 +1,3 @@
-**Memix Readme**
-
 <html>
 <img alt="Banner" src="https://unitedmemes.tk/Images/Memix/Memix.png">
 </html>
