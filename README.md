@@ -16,7 +16,8 @@ bash start.sh
 **have yet to add windows support, if needed install luvit from their website**
 
 <html>
+<h1>Dependencies, preinstalled</h1>
 <a href="https://luvit.io/" target="\_blank">
-<h1>luvit</h1>
+<p>luvit</p>
 </a>
 </html>
