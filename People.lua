@@ -15,5 +15,11 @@ People = {
 "Andrew Garfield",
 "Tobey Maguire",
 "Tom Holland",
+"Finger / Mike Ehrmantraut",
+"Gustavo Fring",
+"Jesse Pinkman",
+"Walter White",
+"Dora",
+
 }
 return People
