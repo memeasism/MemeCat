@@ -1,1 +1,1 @@
-! [Banner](https://imgur.com/a/DxdVvHw)
+! [Banner](https://unitedmemes.tk/Images/Memix.png)
