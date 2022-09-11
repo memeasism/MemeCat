@@ -11,5 +11,6 @@ Verbs = {
 "cooks",
 "loses",
 "paints",
+"kills",
 }
 return Verbs

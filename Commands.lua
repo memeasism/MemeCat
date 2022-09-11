@@ -16,7 +16,7 @@ end
 
 function get_person()
 	local people = require("People")
-	local person = math.random(1, #People)
+	local person = math.random(1, #people)
 	person_string = People[person]
 end
 
