@@ -20,6 +20,8 @@ People = {
 "Jesse Pinkman",
 "Walter White",
 "Dora",
+"Michael Morbious",
+"Spy from TF2",
 
 }
 return People
