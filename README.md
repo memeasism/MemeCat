@@ -14,4 +14,9 @@
 </html>
 
 **have yet to add windows support, if needed install luvit from their website**
-<a href="https://luvit.io/" target="\_blank>
+
+<html>
+<a href="https://luvit.io/" target="\_blank">
+<h1>luvit</h1>
+</a>
+</html>
