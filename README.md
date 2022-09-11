@@ -1,0 +1,1 @@
+This is a git repo written in lua, this project is a simple discord bot for generating memes. I would love some community help with making the used lists huge, these lists incude: Verbs.lua, People.lua, and Actions.lua, other than that, the bot is basically done!
