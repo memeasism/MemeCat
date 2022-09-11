@@ -10,7 +10,7 @@
 **Usage for linux**
 
 <html>
-<img alt="linux_usage" src="https://unitedmemes.tk/Images/Memix/Linux_Usage.png">
+<p>bash start.sh</p>
 </html>
 
 **have yet to add windows support, if needed install luvit from their website**
