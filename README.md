@@ -12,3 +12,6 @@
 <html>
 <img alt="linux_usage" src="https://unitedmemes.tk/Images/Memix/Linux_Usage.png">
 </html>
+
+**have yet to add windows support, if needed install luvit from their website**
+<a href="https://luvit.io/" target="\_blank>
