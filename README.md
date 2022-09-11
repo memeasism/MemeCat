@@ -1,4 +1,4 @@
-![Banner](https://unitedmemes.tk/Images/Memix/Memix.png "banner")
+<img alt="Banner" src="https://unitedmemes.tk/Images/Memix/Memix.png">
 
 **Usage for linux**
-![linux_usage](https://unitedmemes.tk/Images/Memix/Linux_usage.png "linux")
+<img ald="linux_usage" src="https://unitedmemes.tk/Images/Memix/Linux_usage.png">
