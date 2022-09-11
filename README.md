@@ -1,1 +1,1 @@
-[! [Banner](https://unitedmemes.tk/Images/Memix.png)]
+! [Banner](https://unitedmemes.tk/Images/Memix.png "banner")
