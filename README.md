@@ -9,9 +9,9 @@
 
 **Usage for linux**
 
-<html>
-<p>bash start.sh</p>
-</html>
+```
+bash start.sh
+```
 
 **have yet to add windows support, if needed install luvit from their website**
 
