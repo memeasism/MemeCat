@@ -8,7 +8,7 @@ roll = function(message)
 	message.channel:send(person_string .. " " .. verb_string .. " " .. action_string)
 end,
 help = function(message)
-	message.channel:send("Documentation can be found at https://github.com/intLostDev/Memix")
+	message.channel:send("Documentation can be found at https://github.com/iamlostdev/Memix")
 end,
 }
 function get_all()
