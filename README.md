@@ -2,6 +2,12 @@
 <img alt="Banner" src="https://unitedmemes.tk/Images/Memix/Memix.png">
 </html>
 
+**Bot Usage**
+
+<html>
+<p>Currently there are only two options, ;roll which rolls a random idea and, ;help which obviously takes you here.</p>
+</html>
+
 **Installation**
 
 <html>
