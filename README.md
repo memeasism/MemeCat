@@ -30,13 +30,15 @@ start.bat
 
 <html>
 <h1>Dependencies, preinstalled</h1>
-<a href="https://luvit.io/" target="\_blank">
+<ul>
+<li><a href="https://luvit.io/" target="\_blank">
 <p>luvit</p>
-</a>
-<a href="https://github.com/SinisterRectus/Discordia" target="\_blank">
+</a></li>
+<li><a href="https://github.com/SinisterRectus/Discordia" target="\_blank">
 <p>Discordia</p>
-</a>
-<a href="https://github.com/Bilal2453/discordia-interactions" target="\_blank">
+</a></li>
+<li><a href="https://github.com/Bilal2453/discordia-interactions" target="\_blank">
 <p>Discordia Interactions</p>
-</a>
+</a></li>
+</ul>
 </html>
