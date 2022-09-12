@@ -1,0 +1,1 @@
+luvit.exe bot.lua
