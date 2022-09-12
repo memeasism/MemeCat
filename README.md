@@ -1,5 +1,5 @@
 <html>
-<h1 color="blue">Memix</h1>
+<h1>Memix</h1>
 </html>
 
 **Bot Usage**
