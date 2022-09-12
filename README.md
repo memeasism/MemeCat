@@ -20,7 +20,11 @@
 bash start.sh
 ```
 
-**have yet to add windows support, if needed install luvit from their website**
+**Usage for Windows**
+
+```
+start.bat
+```
 
 <html>
 <h1>Dependencies, preinstalled</h1>
