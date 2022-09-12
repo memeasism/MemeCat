@@ -8,9 +8,13 @@ local prefix = ";"
 local token = require('Token')
 
 client:on('messageCreate', function(message)
-	if message.content == prefix .. 'roll' then
-		commands.roll(message)
+	local firstchar = string.sub(message.content, 1, 1)
+	local noprefix = string.sub(message.content, 2, #message.content)
+	if firstchar == prefix then
+	if commands[noprefix] then
+		commands[noprefix](message)
 	end
+end
 end)
 
 client:run('Bot '.. token)
