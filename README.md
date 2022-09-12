@@ -12,7 +12,9 @@
 
 <html>
 <img alt="Install Guide" src="https://unitedmemes.tk/Images/Memix/Memix%20Install.gif">
+<p>After extracting the zip, move it where you wish for the folder to be. Unless edited the token.lua looks for a folder called antigit, if you want edit the token.lua, if not make that folder, then make a file named token inside and open it with your favorite text editor, paste your token and the bot should be ready!</p>
 </html>
+
 
 **Usage for linux**
 
