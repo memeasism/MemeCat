@@ -9,7 +9,7 @@ roll = function(message)
 end,
 help = function(message)
 	message.channel:send("Documentation can be found at https://github.com/intLostDev/Memix")
-end
+end,
 }
 function get_all()
 	get_person()
