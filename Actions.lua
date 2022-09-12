@@ -3,17 +3,27 @@ Actions = {
     verb = {
         gets = {
             "shot",
+            "their credit card info stolen",
+            "eaten",
+            "scurvy",
+            "Cancer and has to cook meth",
+            "wings",
         },
         does = {
             "the griddy",
+            "someones homework",
+            "not like his veggies",
+            "not need auto-tune",
         },
         avoids = {
-            "an arrow",
             "a nuclear bomb",
+            "a flashbang",
+            "getting hit by a truck",
         },
         makes = {
             "a minecraft house",
-            "A campfire"
+            "A campfire",
+            "Tobey Maguire cry",
         },
         finds = {
             "$1M",
