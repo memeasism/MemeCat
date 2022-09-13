@@ -61,6 +61,7 @@ Actions = {
         },
         loses = {
             "at jenga",
+            "their mind",
         },
         paints = {
             "A picture of " .. people[math.random(1,#people)],
