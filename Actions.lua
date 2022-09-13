@@ -1,4 +1,5 @@
 local people = require("People")
+local person_called
 Actions = {
     verb = {
         gets = {
@@ -52,7 +53,7 @@ Actions = {
         },
         beats = {
             "Call of Duty zombies",
-            "His cousin in Mario Kart",
+            people[math.random(1,#people)].. " in Mario Kart",
         },
         cooks = {
             "meth",
@@ -61,7 +62,7 @@ Actions = {
             "at jenga",
         },
         paints = {
-            "A picture of a monkey"
+            "A picture of " .. people[math.random(1,#people)],
         },
         kills = people,
 
