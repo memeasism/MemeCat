@@ -57,6 +57,7 @@ Actions = {
         },
         cooks = {
             "meth",
+            "Burgers",
         },
         loses = {
             "at jenga",
