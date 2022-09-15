@@ -9,7 +9,7 @@ Actions = {
             "scurvy",
             "Cancer and has to cook meth",
             "wings",
-            "gets hit by a truck",
+            "hit by a truck",
             "their pizza stolen",
             "kissed by their homie",
         },
