@@ -81,7 +81,7 @@ People = {
 "Cardi B",
 "Steve Harvey",
 "Elon Musk",
-"Mr.Bean",
+"Mr. Bean",
 "Snoop Dogg",
 "Butcher",
 "Johnny Depp",
