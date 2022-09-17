@@ -67,5 +67,11 @@ People = {
 "Carrie",
 "Moon Knight",
 "Leatherface",
+"Mario",
+"Luigi",
+"Princess Peach",
+"Princess Daisy",
+"Bowser",
+"Bowser Jr",
 }
 return People
