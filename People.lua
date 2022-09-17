@@ -73,5 +73,17 @@ People = {
 "Princess Daisy",
 "Bowser",
 "Bowser Jr",
+"Thanos",
+"Harley Quinn",
+"Cristiano Ronaldo",
+"KSI",
+"Logan Paul",
+"Cardi B",
+"Steve Harvey",
+"Elon Musk",
+"Mr.Bean",
+"Snoop Dogg",
+"Butcher",
+"Johnny Depp",
 }
 return People
