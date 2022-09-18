@@ -5,7 +5,7 @@
 **Bot Usage**
 
 <html>
-<p>Currently there are only two options, ;roll which rolls a random idea and, ;help which obviously takes you here.</p>
+<p>Currently there are only two options, roll which rolls a random idea and, help which obviously takes you here. This bot now uses slash commands!</p>
 </html>
 
 **Installation**
