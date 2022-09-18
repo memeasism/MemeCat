@@ -18,21 +18,10 @@ client:on('ready', function()
 	init["create"](appid, discordia, client)
 end)
 
-client:on("slashCommand", function(ia, cmd, args)
-	if commands[cmd.name] then
-		commands[cmd.name](ia)
+client:on("slashCommand", function(command_response, command, args)
+	if commands[command.name] then
+		commands[command.name](command_response)
 	end
-end)
-
-
-client:on('messageCreate', function(message)
-	local firstchar = string.sub(message.content, 1, 1)
-	local noprefix = string.sub(message.content, 2, #message.content)
-	if firstchar == prefix then
-	if commands[noprefix] then
-		commands[noprefix](message)
-	end
-end
 end)
 
 client:run('Bot '.. token)
