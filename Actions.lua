@@ -3,6 +3,7 @@ local person_called
 Actions = {
     verb = {
         gets = {
+            "McDonalds",
             "shot",
             "their credit card info stolen",
             "eaten",
@@ -15,7 +16,7 @@ Actions = {
         },
         does = {
             "the griddy",
-            people[math.random(1, #people)] .. " homework",
+            people[math.random(1, #people)] .. "'s homework",
             "not like his veggies",
             "not need auto-tune",
         },
@@ -31,6 +32,7 @@ Actions = {
         },
         finds = {
             "$1M",
+            "the Blue Stuff",
         },
         plays = {
             "Valorant",
@@ -39,21 +41,28 @@ Actions = {
             "CS:GO",
             "Fortnite",
             "Fall Guys",
+            "Among Us",
+            "GTA",
+            "Jenga",
         },
         learns = {
+            "how to install gentoo",
             "how to cook crystal meth",
             "to play the violin",
             "The truth of the universe",
             "About fnaf lore",
+            "why their dad didnt return with the milk",
         },
         spends = {
             "their life savings on a Pokemane donation",
             "all their VBucks",
             "time in prison (Dropped Soap)",
+            "an hour debugging code",
         },
         beats = {
             "Call of Duty zombies",
             people[math.random(1,#people)].. " in Mario Kart",
+            "the IRS",
         },
         cooks = {
             "meth",
@@ -62,6 +71,7 @@ Actions = {
         loses = {
             "at jenga",
             "their mind",
+            "all their Vbucks",
         },
         paints = {
             "A picture of " .. people[math.random(1,#people)],
