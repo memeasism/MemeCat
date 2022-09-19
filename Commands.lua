@@ -3,15 +3,12 @@ local verb_string
 local action_string
 
 Commands = {
-	test = function (message)
-		message:reply("believe me now?")
-	end,
 roll = function(message)
     get_all()
-	message:reply(person_string .. " " .. verb_string .. " " .. action_string)
+	message:reply(person_string .. " " .. verb_string .. " " .. action_string, true)
 end,
 help = function(message)
-	message:reply("Documentation can be found at https://github.com/iamlostdev/Memix")
+	message:reply("Documentation can be found at https://github.com/iamlostdev/Memix", true)
 end,
 }
 function get_all()
