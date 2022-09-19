@@ -63,5 +63,8 @@ start.bat
 <li><a href="https://github.com/Bilal2453/discordia-interactions" target="\_blank">
 <p>Discordia Interactions</p>
 </a></li>
+<li><a href="https://github.com/GitSparTV/discordia-slash" target="\_blank">
+<p>Discordia Slash</p>
+</a></li>
 </ul>
 </html>
