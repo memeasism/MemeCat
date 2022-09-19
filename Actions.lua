@@ -27,7 +27,7 @@ Actions = {
         does = {
             "the griddy",
             people[math.random(1, #people)] .. "'s homework",
-            "not like his veggies",
+            "not like their veggies",
             "not need auto-tune",
             "a flip",
             "the ice bucket challenge",
