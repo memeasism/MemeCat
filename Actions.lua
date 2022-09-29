@@ -65,7 +65,7 @@ Actions = {
             "Among Us",
             "GTA",
             "Jenga",
-             "Mario bros",
+            "Mario bros",
             "TF2",
             "Garry's mod",
             "Multiversus",
@@ -103,7 +103,7 @@ Actions = {
             "Call of Duty zombies",
             people[math.random(1,#people)].. " in Mario Kart",
             "the IRS",
-            "Mineccraft"
+            "Minecraft"
         },
         cooks = {
             "meth",
