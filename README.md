@@ -52,9 +52,12 @@ start.bat
 ```
 
 <html>
-<a href="https://discord.com/api/oauth2/authorize?client_id=1018003627748634734&permissions=0&scope=bot%20applications.commands" target="\_blank">
 <h1>Add me to your server!</h1>
-</a>
+<ul>
+<li><a href="https://discord.com/api/oauth2/authorize?client_id=1018003627748634734&permissions=0&scope=bot%20applications.commands" target="\_blank">
+<p>here</p>
+</a></li>
+</ul>
 </html>
 <html>
 <h1>Dependencies</h1>
