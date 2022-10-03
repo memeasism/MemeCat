@@ -1,1 +1,1 @@
-luvit.exe bot.lua
+luvit.exe main.lua

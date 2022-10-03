@@ -1,1 +1,1 @@
-./luvit bot.lua
+./luvit main.lua
