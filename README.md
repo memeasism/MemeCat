@@ -76,3 +76,7 @@ start.bat
 </a></li>
 </ul>
 </html>
+<html>
+<h1>Known Issues</h1>
+<p>sometimes the bot cannot read the appid or token in antigit, solution: <code>swap local id in Appid.lua from id_file:read("*a") to "insert_your_app_id_here"</code> and, <code>swap local token in Token.lua from token_file:read("*a") to "insert_your_token_here"</code> </p>
+</html>
