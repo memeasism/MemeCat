@@ -15,41 +15,11 @@
 <p>After extracting the zip, move it where you wish for the folder to be. Unless edited the token.lua looks for a folder called antigit, if you want edit the token.lua, if not make that folder, then make a file named token inside and open it with your favorite text editor, paste your token and the bot should soon be ready! All that needs to be done is the next two steps and then you can read the usage!</p>
 </html>
 
-**Install Luvit Linux**
+**Setup**
+<html><p>To setup simply run</p><code>lua setup.lua</code></html>
+**Running**
+<html><p>To run simply run</p><code>lua start.lua</code></html>
 
-```
-bash luvit.sh
-```
-
-**Install Luvit Windows**
-
-```
-luvit.bat
-```
-
-**Install Dependencies Linux**
-
-```
-bash installdeps.sh
-```
-
-**Install Dependencies Windows**
-
-```
-installdeps.bat
-```
-
-**Usage for linux**
-
-```
-bash start.sh
-```
-
-**Usage for Windows**
-
-```
-start.bat
-```
 
 <html>
 <h1>Add me to your server!</h1>
