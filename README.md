@@ -16,8 +16,11 @@
 </html>
 
 **Setup**
+
 <html><p>To setup simply run</p><code>lua setup.lua</code></html>
+
 **Running**
+
 <html><p>To run simply run</p><code>lua start.lua</code></html>
 
 
