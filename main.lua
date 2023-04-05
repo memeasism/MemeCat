@@ -14,7 +14,7 @@ local appid = require("Appid")
 
 client:on("ready", function()
     client:setStatus("dnd")
-    client:setGame("Generating Meme ideas")
+    client:setActivity("Generating Meme ideas")
 	init["create"](appid, discordia, client)
 end)
 
