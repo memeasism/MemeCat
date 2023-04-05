@@ -12,7 +12,7 @@
 
 <html>
 <img alt="Install Guide" src="https://unitedmemes.tk/Images/Memix/Memix%20Install.gif">
-<p>After extracting the zip, move it where you wish for the folder to be. Unless edited the token.lua looks for a folder called antigit, if you want edit the token.lua, if not make that folder, then make a file named token inside and open it with your favorite text editor, paste your token and the bot should soon be ready! All that needs to be done is the next two steps and then you can read the usage!</p>
+<p>After extracting the zip, move it where you wish for the folder to be. Unless edited the token.lua looks for a folder called .env and a token file inside with your token, there is also Appid.lua which looks for the file appid in .env, if you want edit the token.lua, if not make that folder, then make a file named token inside and open it with your favorite text editor, paste your token and the bot should soon be ready! All that needs to be done is the next two steps and then you can read the usage!</p>
 </html>
 
 **Setup**
@@ -51,5 +51,5 @@
 </html>
 <html>
 <h1>Known Issues</h1>
-<p>sometimes the bot cannot read the appid or token in antigit, solution: <code>swap local id in Appid.lua from id_file:read("*a") to "insert_your_app_id_here"</code> and, <code>swap local token in Token.lua from token_file:read("*a") to "insert_your_token_here"</code> </p>
+<p>sometimes the bot cannot read the appid or token in .env, solution: <code>swap local id in Appid.lua from id_file:read("*a") to "insert_your_app_id_here"</code> and, <code>swap local token in Token.lua from token_file:read("*a") to "insert_your_token_here"</code> </p>
 </html>
