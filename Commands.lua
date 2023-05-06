@@ -8,7 +8,7 @@ roll = function(message)
 	message:reply(person_string .. " " .. verb_string .. " " .. action_string, true)
 end,
 help = function(message)
-	message:reply("Documentation can be found at https://github.com/iamlostdev/Memix", true)
+	message:reply("Documentation can be found at https://github.com/iamlostdev/MemeCat", true)
 end,
 }
 function get_all()
