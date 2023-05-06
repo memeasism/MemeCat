@@ -1,5 +1,5 @@
 <html>
-<h1>Memix</h1>
+<h1>MemeCat(Formerly Memix from before Memix was a thing)</h1>
 </html>
 
 **Bot Usage**
